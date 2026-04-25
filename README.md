@@ -9,7 +9,7 @@ Sistem rumah pintar dengan fitur otomatis & manual berbasis mikrokontroler
 
 </p>
 
----
+
 
 ## Anggota Kelompok 1
 - Athaya Raihan Annafi — H1D023001  
@@ -18,14 +18,41 @@ Sistem rumah pintar dengan fitur otomatis & manual berbasis mikrokontroler
 - Rafif Surya Murtadha — H1D023008  
 - Revalina Fidiya Anugrah — H1D023011  
 
----
+
 
 ##  Deskripsi Project
 Project ini merupakan sistem **Smart Home berbasis Arduino Uno** yang mampu mengontrol lampu, kipas, dan alarm secara otomatis maupun manual.
 
 Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino untuk menghasilkan aksi seperti menyalakan lampu, mengaktifkan kipas, serta memberikan peringatan jika terdeteksi gas berbahaya.
 
----
+
+
+## Struktur Repository
+
+```
+smart-home-arduino/
+│
+├── README.md
+├── LICENSE (optional)
+│
+├── /code
+│   └── smart_home.ino
+│
+├── /documentation
+│   ├── laporan.pdf
+│   ├── flowchart.png
+│   ├── diagram_blok.png
+│   ├── wiring_diagram.png
+│
+├── /simulation
+│   └── link_tinkercad.txt
+│
+├── /media demonstrasi
+│   ├── demo_video.mp4 
+│   └── screenshot.png
+```
+
+
 
 ##  Fitur Sistem
 
@@ -38,7 +65,7 @@ Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino u
 | 🖥️ LCD | Monitoring real-time |
 | ⚡ Interrupt | Pergantian mode cepat |
 
----
+
 
 ## Konsep yang Digunakan
 
@@ -52,17 +79,15 @@ Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino u
 | I2C | LCD |
 | Interrupt | Mode switch |
 
----
 
 ## Komponen
 Arduino Uno, LDR, TMP36, Sensor Gas, LCD I2C, Motor DC, Buzzer, LED, Push Button, Transistor, Resistor.
 
----
 
 ## Cara Kerja
 Sensor → Arduino → Output aktif sesuai kondisi → ditampilkan di LCD.
 
----
+
 
 ## 🔗 Link Simulasi
 🔗Link : https://www.tinkercad.com/things/27LdxauL5ch-smartroom?sharecode=J2Z_Fh3xIrIaM04F8W9tuFMAYUTp43Jx52KVDvwXjVw
@@ -70,7 +95,7 @@ Sensor → Arduino → Output aktif sesuai kondisi → ditampilkan di LCD.
 ## 🎥 Video Demo
 🔗Link : 
 
----
+
 
 ## Mata Kuliah
 Pemrograman Sistem Tertanam - Kelas A
