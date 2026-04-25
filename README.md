@@ -33,7 +33,6 @@ Sistem bekerja dengan membaca data dari sensor, kemudian diproses oleh Arduino u
 smart-room-arduino/
 │
 ├── README.md
-├── LICENSE (optional)
 │
 ├── /code
 │   └── smart_home.ino
