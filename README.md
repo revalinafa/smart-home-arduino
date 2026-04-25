@@ -1,11 +1,11 @@
-<h1 align="center"> Smart Home Berbasis Arduino Uno</h1>
+<h1 align="center"> Smart Home Berbasis Arduino Uno </h1>
 
 <p align="center">
 Sistem rumah pintar dengan fitur otomatis & manual berbasis mikrokontroler
 </p>
 
 <p align="center">
-  <img width="1855" height="848" alt="banner" src="https://github.com/user-attachments/assets/6855e57a-1bf9-49e2-b522-e65283e1e226" />
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5a3afa29-be77-4a7a-9358-78228a6674d7" />
 
 </p>
 
