@@ -5,7 +5,8 @@ Sistem ruangan pintar dengan fitur otomatis & manual berbasis mikrokontroler
 </p>
 
 <p align="center">
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5a3afa29-be77-4a7a-9358-78228a6674d7" />
+<img width="1024" height="1536" alt="banner implementasi hardware" src="https://github.com/user-attachments/assets/a6e3c414-f2f1-495c-968c-80357a7f0c67" />
+
 
 </p>
 
@@ -35,7 +36,8 @@ smart-room-arduino/
 ├── README.md
 │
 ├── /code
-│   └── smart_home.ino
+│   ├── smart_home.ino
+│   ├── implementasi hardware-projectpst.ino
 │
 ├── /documentation
 │   ├── laporan.pdf
@@ -49,6 +51,7 @@ smart-room-arduino/
 ├── /simulation
 │   ├── link_tinkercad.txt
 │   ├── link_youtube.txt
+│   ├── link_youtube implementasi hardware.txt
 │
 ```
 
@@ -59,7 +62,6 @@ smart-room-arduino/
 | Fitur | Deskripsi |
 |------|----------|
 | 💡 Lampu Otomatis | Menyala saat gelap (LDR) |
-| 🌡️ Kipas Otomatis | Aktif saat suhu tinggi (TMP36) |
 | 🚨 Alarm Gas | Buzzer aktif saat gas berbahaya |
 | 🔄 Mode Manual | Kontrol via push button |
 | 🖥️ LCD | Monitoring real-time |
@@ -81,19 +83,19 @@ smart-room-arduino/
 
 
 ## Komponen
-Arduino Uno, LDR, TMP36, Sensor Gas, LCD I2C, Motor DC, Buzzer, LED, Push Button, Transistor, Resistor.
+Arduino Uno, LDR, Sensor Gas, LCD I2C, Motor DC, Buzzer, LED, Push Button, Transistor, Resistor.
 
 
 ## Cara Kerja
 Sensor → Arduino → Output aktif sesuai kondisi → ditampilkan di LCD.
 
 
-
 ## 🔗 Link Simulasi
 🔗Link : https://www.tinkercad.com/things/27LdxauL5ch-smartroom?sharecode=J2Z_Fh3xIrIaM04F8W9tuFMAYUTp43Jx52KVDvwXjVw
 
 ## 🎥 Video Demo
-🔗Link : https://youtu.be/fzk8j-MujXI
+🔗Link Demo Implementasi Hardware: https://youtu.be/fzk8j-MujXI
+🔗Link Demo Simulasi: https://youtu.be/fzk8j-MujXI
 
 
 
