@@ -5,7 +5,8 @@ Sistem ruangan pintar dengan fitur otomatis & manual berbasis mikrokontroler
 </p>
 
 <p align="center">
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5a3afa29-be77-4a7a-9358-78228a6674d7" />
+<img width="1024" height="1536" alt="banner implementasi hardware" src="https://github.com/user-attachments/assets/0266ca6e-4402-4a8d-815e-03eaffe93d98" />
+
 
 </p>
 
